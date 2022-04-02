@@ -1,0 +1,8 @@
+2022-04-02T16:32:43.825+0200	[35mDEBUG[0m	zaplogger/main.go:42	Trying to hit GET request for www.phub.com
+2022-04-02T16:32:43.826+0200	[31mERROR[0m	zaplogger/main.go:45	Error fetching URL www.phub.com : Error = Get "www.phub.com": unsupported protocol scheme ""
+
+
+2022-04-02T16:32:43.826+0200	[35mDEBUG[0m	zaplogger/main.go:42	Trying to hit GET request for http://www.pornhub.com
+2022-04-02T16:32:46.448+0200	[34mINFO[0m	zaplogger/main.go:47	Success! statusCode = 200 OK for URL http://www.pornhub.com
+
+
